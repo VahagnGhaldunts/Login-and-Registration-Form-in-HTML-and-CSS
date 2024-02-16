@@ -1,1 +1,1 @@
-## How to Create Login and Registration Form using HTML CSS
+## Login and Registration Form using HTML CSS JS
